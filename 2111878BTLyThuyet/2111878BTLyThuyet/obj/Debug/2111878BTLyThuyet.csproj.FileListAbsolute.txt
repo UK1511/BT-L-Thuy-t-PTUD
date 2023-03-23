@@ -1,0 +1,16 @@
+C:\Users\VUTRANG_COMPUTER\source\repos\2111878BTLyThuyet\2111878BTLyThuyet\bin\Debug\2111878BTLyThuyet.exe.config
+C:\Users\VUTRANG_COMPUTER\source\repos\2111878BTLyThuyet\2111878BTLyThuyet\bin\Debug\2111878BTLyThuyet.exe
+C:\Users\VUTRANG_COMPUTER\source\repos\2111878BTLyThuyet\2111878BTLyThuyet\bin\Debug\2111878BTLyThuyet.pdb
+C:\Users\VUTRANG_COMPUTER\source\repos\2111878BTLyThuyet\2111878BTLyThuyet\obj\Debug\2111878BTLyThuyet.csproj.AssemblyReference.cache
+C:\Users\VUTRANG_COMPUTER\source\repos\2111878BTLyThuyet\2111878BTLyThuyet\obj\Debug\2111878BTLyThuyet.csproj.SuggestedBindingRedirects.cache
+C:\Users\VUTRANG_COMPUTER\source\repos\2111878BTLyThuyet\2111878BTLyThuyet\obj\Debug\_2111878BTLyThuyet.frmLinkLabelBT35.resources
+C:\Users\VUTRANG_COMPUTER\source\repos\2111878BTLyThuyet\2111878BTLyThuyet\obj\Debug\_2111878BTLyThuyet.Properties.Resources.resources
+C:\Users\VUTRANG_COMPUTER\source\repos\2111878BTLyThuyet\2111878BTLyThuyet\obj\Debug\2111878BTLyThuyet.csproj.GenerateResource.cache
+C:\Users\VUTRANG_COMPUTER\source\repos\2111878BTLyThuyet\2111878BTLyThuyet\obj\Debug\2111878BTLyThuyet.csproj.CoreCompileInputs.cache
+C:\Users\VUTRANG_COMPUTER\source\repos\2111878BTLyThuyet\2111878BTLyThuyet\obj\Debug\2111878BTLyThuyet.exe
+C:\Users\VUTRANG_COMPUTER\source\repos\2111878BTLyThuyet\2111878BTLyThuyet\obj\Debug\2111878BTLyThuyet.pdb
+C:\Users\VUTRANG_COMPUTER\source\repos\2111878BTLyThuyet\2111878BTLyThuyet\obj\Debug\_2111878BTLyThuyet.frmSubmitBT42.resources
+C:\Users\VUTRANG_COMPUTER\source\repos\2111878BTLyThuyet\2111878BTLyThuyet\obj\Debug\_2111878BTLyThuyet.frmComBoBoxBT48.resources
+C:\Users\VUTRANG_COMPUTER\source\repos\2111878BTLyThuyet\2111878BTLyThuyet\obj\Debug\_2111878BTLyThuyet.frmButtonBT57.resources
+C:\Users\VUTRANG_COMPUTER\source\repos\2111878BTLyThuyet\2111878BTLyThuyet\obj\Debug\_2111878BTLyThuyet.frmListboxBT52.resources
+C:\Users\VUTRANG_COMPUTER\source\repos\2111878BTLyThuyet\2111878BTLyThuyet\obj\Debug\_2111878BTLyThuyet.frmRadioBT56.resources
